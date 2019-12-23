@@ -92,6 +92,8 @@ https://data.mendeley.com/datasets/rscbjbr9sj/2
 
 产品经理、数据处理、API搭建、文档：子豪兄
 
+用户交互设计、文档：吴姗姗
+
 Bilibili视频专栏：同济子豪兄
 
 前端开发、服务器运维：Maxoyed
